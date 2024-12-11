@@ -2,7 +2,7 @@
 
 This plugin demonstrates how to surface data from Conversation Relay in Flex. It will display 3 task attributes in the agent desktop, namely: callSummary, reason and sentiment. This plugin was styled using Twilio Paste. Here's how it looks:
 
-![alt text](Screenshot 2024-12-11 at 13.08.54.png)
+![alt text](example.png)
 
 TODO: add Conversation Relay instructions.
 
